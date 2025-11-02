@@ -55,7 +55,7 @@ A **URL shortener platform** built with the MERN stack, offering custom links, a
 ## 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,python,tensorflow,pytorch,git,aws,gcp,tailwind,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,python,git,tailwind,js" />
 </p>
 
 ---
