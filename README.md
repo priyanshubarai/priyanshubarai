@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- **Full-Stack Developer** skilled in **MERN Stack, Python, and AI/ML**.  
+- **Full-Stack Developer** skilled in **MERN Stack, Python, java , javascript**.  
 - Actively solving **Data Structures & Algorithms (LeetCode)** to sharpen my problem-solving skills.  
 - Love **building real-world products** that solve problems.  
 - Looking to **join a team where I can build, learn, and grow**.
@@ -26,11 +26,8 @@
 ## 🧠 Problem-Solving & DSA (LeetCode)
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/amitk2308?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/priyanshubarai?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" />
 </p>
-
-This repo: [LeetCode Practice](https://github.com/amitkumar2308/LeetCode-Practice)  
-*(Auto-updated whenever I solve problems — structured by problem number & name.)*
 
 ---
 
