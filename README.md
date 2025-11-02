@@ -7,7 +7,7 @@
 
 <!-- Profile Views + Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amitkumar2308&label=Profile+Views&color=blueviolet&style=plastic" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=priyanshubarai&label=Profile+Views&color=blueviolet&style=plastic" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Software%20Developer-Ready%20for%20Hire-brightgreen?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=flat-square&logo=leetcode" />
 </p>
