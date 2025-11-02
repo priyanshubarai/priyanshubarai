@@ -31,27 +31,24 @@
 
 ---
 
-## 🏗️ Featured Projects (Real-World Problem Solving)
+## 🏗️ Featured Projects
 
-### [Connx.in](https://connx.in)  
-A platform for **new freelancers** to connect with potential clients & mentors, solving the **"how to get first projects"** problem.  
-*Tech:* React, Node.js, MongoDB.
-
----
-
-### [Campus Reveal](https://campusreveal.vercel.app)  
-An anonymous review-sharing platform where **students share honest college reviews** without revealing identity.  
-*Tech:* Next.js, Tailwind, Firebase.
+### [SafeDetect - Safety Equipment Detector](https://github.com/priyanshubarai/YOLO_app.git)  
+An **AI-powered computer vision** tool that detects safety equipment (fire extinguisher, first aid box, emergency items, etc.) using a fine-tuned YOLO model.
+*Tech:* Python, Tkinter, OpenCV, YOLOv8..
 
 ---
 
-### [AnnouncePro](https://campusreveal.vercel.app)  
-Developed during an internship to help universities **schedule & trigger announcements** (solving a real problem: no proper scheduling system for announcements).  
-*Tech:* MERN Stack, Cron Jobs, Webhooks.
+### [Talky - Chat App](https://talkly-afof.onrender.com/)  
+A **real-time chat application** enabling instant communication between users with a clean, responsive UI and secure message handling.
+*Tech:* React, Node.js, Socket.io, MongoDB.
 
 ---
 
-*(More projects on my [Portfolio](https://amitkdeveloper.vercel.app))*
+### [SleekShort - URL shortener](https://sleekshort.vercel.app)  
+A **URL shortener platform** built with the MERN stack, offering custom links, analytics, and redirect tracking for efficient link management. 
+*Tech:* React, Node.js, Express, MongoDB.
+
 
 ---
 
