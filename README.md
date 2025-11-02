@@ -1,6 +1,6 @@
 <!-- Animated Intro -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Amit+Kumar+👋;Full+Stack+Developer+%7C+Problem+Solver;Building+AI+%26+Web+Solutions;Ready+to+Join+Your+Team" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Priyanshu+Barai+👋;Full+Stack+Developer+%7C+Problem+Solver;Building+%26+Web+Solutions;Ready+to+Join+Your+Team" alt="Typing SVG" />
 </div>
 
 ---
