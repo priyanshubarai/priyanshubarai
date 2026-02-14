@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=default&font=default&quoteType=random" alt="Quote" />
-</p>
+
 
 <!-- Animated Intro -->
 <div align="center">
